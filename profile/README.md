@@ -25,7 +25,7 @@ Searches such as Device42 IT asset management, Device42 data center inventory, a
 | **Remembers context** | Assets, connections, and tags help you return to the next task fast. |
 | **Fast feedback** | Open Device42, pick an asset, and review its map without switching tools. |
 
-![Device42](https://avatars.mds.yandex.net/i?id=3a540466648486b9a6cbbd4320d44f3cece4fcd5-9185791-images-thumbs&n=13)
+![Device42](https://s.yimg.com/ny/api/res/1.2/PHL3WQy0hZZ2wXfjbGRP9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/globenewswire.com/fa4d9bf7d4ae27d24d0e87a89d54b02d)
 
 ## Key Features of Device42
 
